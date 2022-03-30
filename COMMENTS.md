@@ -1,19 +1,12 @@
+Projeto webApi .Net 6.0, utilizando o ORM Entity Framework Core com arquitetura MVC e a arquitetura CQRS pattern, usando banco de dados Postgres. 
+
+
 1. Arquitetura utilizada
 	Foi usada essa arquitetura pela melhor organização do projeto, arquitetura MVC, para uma arquitetura mais moderna.
-	Utilizando o .Net Core 6.0
+	Utilizando o .Net 6.0
 
 2. Bibliotecas de terceiros utilizadas
 
-<<<<<<< HEAD
-Microsoft.AspNetCore.Mvc.Core 
-Architect.Identities.EntityFramework 
-Microsoft.EntityFrameworkCore.Design 
-Microsoft.EntityFrameworkCore.InMemory 
-Microsoft.EntityFrameworkCore.Tools 
-Npgsql.EntityFrameworkCore.PostgreSQL 
-MediatR 
-FluentValidation
-=======
 	Microsoft.AspNetCore.Mvc.Core
 	
 	Architect.Identities.EntityFramework
@@ -29,7 +22,6 @@ FluentValidation
 	MediatR
 	
 	FluentValidation
->>>>>>> 54b8582fe6ff5cca88912cb7b382187bc684f326
 
 3. O que você melhoraria se tivesse mais tempo ?
 
