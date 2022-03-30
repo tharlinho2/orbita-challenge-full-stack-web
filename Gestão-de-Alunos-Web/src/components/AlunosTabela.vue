@@ -34,10 +34,10 @@
       <div class="user-modal">
         <h3 class="text-primary">Atenção!</h3>
           <form>
-            <h4 class="modal-atencao">Tem Certeza?</h4>
-            <!-- ao clicar, "showModal" passa a ser false -->
-            <button v-on:click.prevent="showModelAtencao = !showModelAtencao" class="btn btn-secondary mr-1">Cancelar</button>
-            <button v-on:click="deletarAluno(aluno3.id)" type="submit" class="btn btn-primary">Deletar</button> 
+            <h5 class="modal-atencao">Tem Certeza?</h5>
+            <!-- ao clicar, "showModelAtencao" passa a ser false -->
+            <button v-on:click.prevent="showModelAtencao = !showModelAtencao" class="btn btn-sm btn-secondary mr-1">Cancelar</button>
+            <button v-on:click="deletarAluno(aluno3.id)" type="submit" class="btn btn-sm btn-danger">Deletar</button> 
           </form>
       </div>
     </div> 
@@ -61,7 +61,7 @@ export default {
   },
   // Ao criar o componente, é feito uma requisição GET para a API do backend
    async created() {
-     setInterval(() => {
+     setTimeout(() => {
        fetch('https://localhost:7224/api/alunos', {
          method: "GET",
        })
@@ -92,7 +92,7 @@ export default {
       });
     },
     // Metodo usa o 'EventBus' para poder emitir dados de forma global
-    // --> Emite dados de "aluno" e "showModal"
+    // --> Emite dados do "aluno" e "showModal"
     emitShowModal(aluno) {
       this.aluno = aluno;
       EventBus.$emit('click', this.showModal, this.aluno);
@@ -156,5 +156,9 @@ td {
 
 .user-modal p {
   opacity: 0.9;
+}
+
+.btn-cancelar {
+  background-color: #535353;
 }
 </style>

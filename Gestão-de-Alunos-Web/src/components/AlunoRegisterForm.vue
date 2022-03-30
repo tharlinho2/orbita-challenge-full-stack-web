@@ -35,17 +35,6 @@
       </div>
     </div>
 
-    <div v-bind:class="showModelAtencao" class="modal-container">
-      <div class="user-modal">
-        <h3 class="text-primary">Atenção!</h3>
-          <form>
-          <h4 class="modal-atencao">{{users}}</h4>
-          <!-- ao clicar, "showModal" passa a ser false -->
-          <button v-on:click.prevent="showModelAtencao = !showModelAtencao" class="btn btn-secondary mr-1">Fechar</button>
-        </form>
-      </div>
-    </div>
-
   </div>
 </template>
 
@@ -59,7 +48,6 @@ export default {
     return {
       users: [],
       showModal: false,
-      showModelAtencao: false,
     };
   },
   methods: {
@@ -92,9 +80,6 @@ export default {
     modalClass() {
       return this.showModal ? 'show' : '';
     },
-    modelClassAtencao() {
-     return this.showModelAtencao ? 'show' : '';
-    }
   },
 };
 </script>
