@@ -69,7 +69,7 @@ export default {
        .then(data => {
          this.alunos = data
        })
-     }, 200)
+     }, 500)
   },
   methods: {
     // Requisição DELETE para excluir o aluno por id
