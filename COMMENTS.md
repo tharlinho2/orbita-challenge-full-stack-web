@@ -15,7 +15,7 @@
 
 3. O que você melhoraria se tivesse mais tempo ?
 
-	Na organização do projeto, para e na refatoração do código para ter um maior desempenho
+	Na organização do projeto, e na refatoração do código para ter um maior desempenho
 
 4. Quais requisitos obrigatórios que não foram entregues ?
 
