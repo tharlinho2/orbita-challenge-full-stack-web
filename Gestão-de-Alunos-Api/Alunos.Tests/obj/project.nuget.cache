@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pr6hCoBb0pe/hjXic8mCAWJ2m/SthYsYEqMYSL9eDCwDMWmNblzgbN3ODH+qME2PkUf2RuojSUv97AFO5PVVXA==",
+  "dgSpecHash": "hSKqI+QJ038H2iV2Pp6F6SAotvEYpdV4VeMHnBOhRW1E1qvM3BuGZhs38p97JEkHiA7JcyAq5M8xBUn4Lkl5Jw==",
   "success": true,
-  "projectFilePath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Tests\\Alunos.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Tests\\Alunos.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tharles\\.nuget\\packages\\architect.ambientcontexts\\1.1.1\\architect.ambientcontexts.1.1.1.nupkg.sha512",
     "C:\\Users\\Tharles\\.nuget\\packages\\architect.identities\\1.0.2\\architect.identities.1.0.2.nupkg.sha512",

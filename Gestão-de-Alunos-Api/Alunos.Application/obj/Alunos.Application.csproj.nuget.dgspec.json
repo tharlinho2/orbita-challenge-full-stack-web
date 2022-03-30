@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj": {}
+    "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj": {}
   },
   "projects": {
-    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj": {
+    "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj",
         "projectName": "Alunos.Application",
-        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj",
+        "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Application\\Alunos.Application.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Application\\obj\\",
+        "outputPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj": {
-                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj"
+              "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj"
               },
-              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj": {
-                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj"
+              "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj": {
+                "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj": {
+    "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
         "projectName": "Alunos.Domain",
-        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
+        "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj": {
+    "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj",
         "projectName": "Alunos.Infra",
-        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj",
+        "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Infra\\Alunos.Infra.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Infra\\obj\\",
+        "outputPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj": {
-                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj"
+              "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj"
               }
             }
           }

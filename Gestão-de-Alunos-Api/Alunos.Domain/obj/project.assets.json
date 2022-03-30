@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
       "projectName": "Alunos.Domain",
-      "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
+      "projectPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
       "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-      "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Tharles\\Desktop\\full\\orbita-challenge-full-stack-web\\Gestão-de-Alunos-Api\\Alunos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -102,3 +102,20 @@ dist
 
 # TernJS port file
 .tern-port
+
+Alunos.Api/bin 
+Alunos.Api/obj
+
+Alunos.Application/bin 
+Alunos.Application/obj
+
+Alunos.Domain/bin 
+Alunos.Domain/obj
+
+Alunos.Infra/bin 
+Alunos.Infra/obj
+
+Alunos.Tests/bin 
+Alunos.Tests/obj
+
+.vs/

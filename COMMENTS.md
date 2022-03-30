@@ -4,14 +4,14 @@
 
 2. Bibliotecas de terceiros utilizadas
 
-	Microsoft.AspNetCore.Mvc.Core
-	Architect.Identities.EntityFramework
-	Microsoft.EntityFrameworkCore.Design
-	Microsoft.EntityFrameworkCore.InMemory
-	Microsoft.EntityFrameworkCore.Tools
-	Npgsql.EntityFrameworkCore.PostgreSQL
-	MediatR
-	FluentValidation
+Microsoft.AspNetCore.Mvc.Core 
+Architect.Identities.EntityFramework 
+Microsoft.EntityFrameworkCore.Design 
+Microsoft.EntityFrameworkCore.InMemory 
+Microsoft.EntityFrameworkCore.Tools 
+Npgsql.EntityFrameworkCore.PostgreSQL 
+MediatR 
+FluentValidation
 
 3. O que você melhoraria se tivesse mais tempo ?
 
