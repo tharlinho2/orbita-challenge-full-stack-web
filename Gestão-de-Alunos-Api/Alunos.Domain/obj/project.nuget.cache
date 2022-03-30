@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "71RQDnIcNNa+GoiRWAkFvnbpyboQIElQmSjRP1KAm2+O8lASJSCiMa1bVf2kMjUzwb1znFyQl9at6e6oUaMdXg==",
+  "success": true,
+  "projectFilePath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Gestão-de-Alunos-Api\\Alunos.Domain\\Alunos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tharles\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Tharles\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
