@@ -1,4 +1,4 @@
-Projeto webApi .Net 6.0, utilizando arquitetura MVC e a arquitetura CQRS pattern, usando banco de dados Postgres. 
+Projeto webApi .Net 6.0, utilizando o ORM Entity Framework Core com arquitetura MVC e a arquitetura CQRS pattern, usando banco de dados Postgres. 
 
 
 1. Arquitetura utilizada
